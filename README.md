@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/LahiruCooray/UART-Transceiver-Implementation-in-FPGA/blob/d9c1b6eb14bac867a0d9477384b0793c70c58bb5/Images/UART%20Implementation.jpg" alt="FPGA Implementation" width="30%">
-  <img src="https://github.com/LahiruCooray/UART-Transceiver-Implementation-in-FPGA/blob/e86fe1dd6d22d89ebcd14baa144809ea63cce4ea/Images/RTL%20Viewer.jpg" alt="RTL Viewer" width="70%">
+  <img src="https://github.com/LahiruCooray/UART-Transceiver-Implementation-in-FPGA/blob/e86fe1dd6d22d89ebcd14baa144809ea63cce4ea/Images/RTL%20Viewer.jpg" alt="RTL Viewer" width="60%">
 </div>
 
 ![Simulation](https://github.com/LahiruCooray/UART-Transceiver-Implementation-in-FPGA/blob/529654558eba0ed07083b1e0b160f934d37cbdc0/Images/Simulation%20on%20ModelSim.jpg)
