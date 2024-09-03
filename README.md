@@ -1,5 +1,7 @@
 # UART-Transceiver-Implementation-in-FPGA
 
+![RTL Viewer](https://github.com/LahiruCooray/UART-Transceiver-Implementation-in-FPGA/blob/e86fe1dd6d22d89ebcd14baa144809ea63cce4ea/Images/RTL%20Viewer.jpg)
+
 This repository contains the Verilog HDL implementation of a UART (Universal Asynchronous Receiver/Transmitter) transceiver on FPGA. 
 The project includes:
 
