@@ -1,4 +1,7 @@
 # UART-Transceiver-Implementation-in-FPGA
+
+![UART Simulation](Images/Simulation on ModelSim.jpg)
+
 This repository contains the Verilog HDL implementation of a UART (Universal Asynchronous Receiver/Transmitter) transceiver on FPGA. 
 The project includes:
 
